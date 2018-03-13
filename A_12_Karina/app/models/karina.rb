@@ -1,0 +1,2 @@
+class Karina < ApplicationRecord
+end
